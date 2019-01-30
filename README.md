@@ -11,5 +11,5 @@ Some nice results :
 ![Screenshot](iowa_generated.png)
 
 ![Screenshot](polarbear2.jpg)
-![Screenshot](picasso.jpg)
+![Screenshot](picasso3.jpg)
 ![Screenshot](polarbear2_done.jpg)
