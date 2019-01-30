@@ -5,8 +5,7 @@ The method uses pretrained VGG19, images are reshaped to fit in the network.
 Content, style and generated specify respectively the content image, style image and the new image matching both style and content.
 
 Some nice results : 
-![Screenshot](iowa.jpg)
-![Screenshot](munch.jpg)
+
 
 
 
