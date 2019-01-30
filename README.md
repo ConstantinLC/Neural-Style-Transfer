@@ -9,3 +9,7 @@ Some nice results :
 ![Screenshot](iowa.jpg)
 ![Screenshot](munch.jpg)
 ![Screenshot](iowa_generated.png)
+
+![Screenshot](polarbear2.jpg)
+![Screenshot](picasso.jpg)
+![Screenshot](polarbear2_done.jpg)
